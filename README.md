@@ -9,7 +9,7 @@ has changed password when they re-addded their accounts on the new domain. You w
 used same password as they did on biljett.nu and it has been everywhere in media so I decided to not care anymore since they have got so many remindings to change password now, if they are so stupid so they using
 same password that has been leaked on the same site under another domain then you deserve to be hacked.
 
-Probably there is ALOT of people that will hate me for this release, but it's not my fault that you are so fucking stupid that using the same password again
+_Probably_ there is __ALOT__ of people that will hate me for this release, but it's not my fault that you are so fucking stupid that using the same password again
 when it was everywhere on news page. Even swedish police accounts still working according to a friend since I have just built this tool but I have never
 used it personally, the video preview is from my friend, so as usual!! Don't blame me and don't break the law, 
 
