@@ -25,7 +25,7 @@ Here are few links about the leak:
 
 #### Preview:
 
-![Screenshot](.preview/wticketmaster.gif)
+![Screenshot](.preview/ticketmaster.gif)
 
 #### HOWTO: 
 
