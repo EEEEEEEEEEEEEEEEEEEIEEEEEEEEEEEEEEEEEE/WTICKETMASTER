@@ -49,4 +49,4 @@ if [[ $? -eq "0" ]]; then
 else
     echo -e "[\e[1;31m<<\e[0m] - Failed Login $line"
 fi
-done < biljettnudump.txt
+done < $1
